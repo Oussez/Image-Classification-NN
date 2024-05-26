@@ -38,4 +38,5 @@ l'évaluation de ses performances, ainsi qu’une interface web pour tester la c
 
 d’une image chargée par un utilisateur.
 
+To download the saved stat of trained model in format h5 : https://www.dropbox.com/scl/fi/whq4whmuv7wzlkt3tks0d/model_alpha.zip?rlkey=kiqy6oti95twizugfkcuncw4b&st=rn2t1qjd&dl=0
 
